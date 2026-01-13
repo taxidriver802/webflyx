@@ -1,0 +1,54 @@
+[33mcommit e782331a0cfbcfb46909463f04b59639045bf44d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mupdate_dune[m[33m)[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 04:36:52 2026 -0600
+
+    I: add quotes
+
+[33mcommit 5159048e4265f4a050ae661c33b843c6b227ba06[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 04:36:28 2026 -0600
+
+    H: add quotes
+
+[33mcommit f8a930ee3ffa92f9a65726e7c1b5e461a1b46fda[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 04:27:10 2026 -0600
+
+    G: add titles
+
+[33mcommit 1c423b4b0bc70c7fccef38496babe8fade3e465a[m
+Merge: 29826d3 d168ac8
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 04:20:23 2026 -0600
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 29826d3fc06703c7d24266ee8ec17a18f5ed9622[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 04:18:23 2026 -0600
+
+    E: add contents
+
+[33mcommit d168ac84d3025873e559c59087e455ab357af9ca[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 04:09:17 2026 -0600
+
+    D: add classics
+
+[33mcommit 6c4d0676f59e224d1c62eb9c03a17d05b0dd93e8[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 03:48:06 2026 -0600
+
+    C: add quotes
+
+[33mcommit d20fb753a84c2e2d87203e5ab7aec118086bd94c[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 03:42:51 2026 -0600
+
+    B: add titles
+
+[33mcommit d8e9422cc3babcad75b424b21b4ac09c7d916d52[m
+Author: taxidriver802 <JAcox12@icloud.com>
+Date:   Wed Jan 7 03:11:26 2026 -0600
+
+    A: add contents.md
